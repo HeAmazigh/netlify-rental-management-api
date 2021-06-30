@@ -1,0 +1,13 @@
+{
+    "env": {
+        "DB_USER": "amazigh",
+        "DB_PASSWORD": "DGFd6XcsVlBEszfP",
+        "DB_NAME": "rentalManagement",
+        "JWT_SECRET": "JWgECQEttzC33nrIdAIzaSyAQGpR4lNk",
+        "EMAIL_SERVICE": "",
+        "EMAIL_USERNAME": "",
+        "EMAIL_PASSWORD": "",
+        "EMAIL_FROM": "",
+        "JWT_EXPIRE": ""
+    }
+}
